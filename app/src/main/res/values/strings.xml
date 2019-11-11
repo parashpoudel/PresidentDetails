@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="President_name">presidentname</string>
+</resources>
